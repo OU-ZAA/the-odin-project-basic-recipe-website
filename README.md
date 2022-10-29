@@ -1,1 +1,1 @@
-# the-odin-project-basic-recipe-website
+# odin-recipes
